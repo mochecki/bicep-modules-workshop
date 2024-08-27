@@ -15,7 +15,7 @@ Parameters:
 
 #### 2. Add a Log Analytics Workspace resource
 
-#### 3. Add a output list
+#### 3. Add an output list
 
 Output:
 - name
@@ -33,7 +33,7 @@ Parameters:
 
 #### 2. Add a Storage Account resource
 
-#### 3. Add a output list
+#### 3. Add an output list
 
 Output:
 - name
